@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\bin\Debug\net7.0\practico7.exe
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\bin\Debug\net7.0\practico7.deps.json
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\bin\Debug\net7.0\practico7.runtimeconfig.json
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\bin\Debug\net7.0\practico7.dll
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\bin\Debug\net7.0\practico7.pdb
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\obj\Debug\net7.0\practico7.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\obj\Debug\net7.0\practico7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\obj\Debug\net7.0\practico7.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\obj\Debug\net7.0\practico7.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\obj\Debug\net7.0\practico7.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\obj\Debug\net7.0\practico7.dll
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\obj\Debug\net7.0\refint\practico7.dll
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\obj\Debug\net7.0\practico7.pdb
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\obj\Debug\net7.0\practico7.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\practico7\obj\Debug\net7.0\ref\practico7.dll
