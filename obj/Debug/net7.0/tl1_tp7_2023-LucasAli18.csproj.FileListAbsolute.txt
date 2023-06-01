@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\obj\Debug\net7.0\tl1_tp7_2023-LucasAli18.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\obj\Debug\net7.0\tl1_tp7_2023-LucasAli18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\obj\Debug\net7.0\tl1_tp7_2023-LucasAli18.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\obj\Debug\net7.0\tl1_tp7_2023-LucasAli18.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\obj\Debug\net7.0\tl1_tp7_2023-LucasAli18.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\bin\Debug\net7.0\tl1_tp7_2023-LucasAli18.exe
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\bin\Debug\net7.0\tl1_tp7_2023-LucasAli18.deps.json
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\bin\Debug\net7.0\tl1_tp7_2023-LucasAli18.runtimeconfig.json
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\bin\Debug\net7.0\tl1_tp7_2023-LucasAli18.dll
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\bin\Debug\net7.0\tl1_tp7_2023-LucasAli18.pdb
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\obj\Debug\net7.0\tl1_tp7_2023-LucasAli18.dll
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\obj\Debug\net7.0\refint\tl1_tp7_2023-LucasAli18.dll
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\obj\Debug\net7.0\tl1_tp7_2023-LucasAli18.pdb
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\obj\Debug\net7.0\tl1_tp7_2023-LucasAli18.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\tp7\tl1_tp7_2023-LucasAli18\obj\Debug\net7.0\ref\tl1_tp7_2023-LucasAli18.dll
